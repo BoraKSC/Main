@@ -18,13 +18,11 @@
 </br>
 
   My name is [Bora](https://www.borakuskucu.com), I'm a Front-End Developer. I love solving problems, finding efficient processes and learning new concepts. Long story short, I love coding !
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-**Talking about Personal Stuffs:**
 
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: prathmeshsadake@gmail.com
 
 
 <!-- *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
