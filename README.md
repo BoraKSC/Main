@@ -28,16 +28,16 @@
 <!-- *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
 -->
 <br><br>
-<br><br><br>
+<br>
 **Languages and Tools:**  
 
 -React.js<br>
--React-Native
--Javascript
--CSS
--Html
--Webpack
--Node.js
--Express
--MangoDB
+-React-Native<br>
+-Javascript<br>
+-CSS<br>
+-Html<br>
+-Webpack<br>
+-Node.js<br>
+-Express<br>
+-MangoDB<br>
 
