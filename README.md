@@ -31,7 +31,7 @@
 <br><br><br>
 **Languages and Tools:**  
 
--React.js
+-React.js<br>
 -React-Native
 -Javascript
 -CSS
