@@ -27,7 +27,7 @@
 
 <!-- *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
 -->
-<br><br><br><br>
+<br><br>
 <br><br><br>
 **Languages and Tools:**  
 
@@ -38,4 +38,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <br><br><br><br>
 <br><br><br>
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&include_all_commits=true&theme=buefy&line_height=33" alt="Prathmesh's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&card_width=300&theme=bue&langs_count=4&hide=Dockerfile" />  
