@@ -31,4 +31,13 @@
 <br><br><br>
 **Languages and Tools:**  
 
+-React.js
+-React-Native
+-Javascript
+-CSS
+-Html
+-Webpack
+-Node.js
+-Express
+-MangoDB
 
