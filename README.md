@@ -17,7 +17,6 @@
 </br>
 </br>
 
-  My name is [Bora](https://www.borakuskucu.com), I'm a Front-End Developer. I love solving problems, finding efficient processes and learning new concepts. Long story short, I love coding !
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
